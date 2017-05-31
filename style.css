@@ -1,0 +1,20 @@
+
+.container-fluid {
+  background-color: #b4b3b3;
+  color: #faf1f1;
+}
+
+.container {
+  background-color: aqua;
+}
+
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-6,
+.col-md-12 {
+  background-color: #faf1f1;
+  border: solid 1px #b4b3b3;
+
+}
